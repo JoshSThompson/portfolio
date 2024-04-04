@@ -1,0 +1,26 @@
+body {
+    background-color: #141414;
+    margin-top: 15%;
+    color: #fff;
+    font-family: Open Sans, Helvetica Neue, Arial, sans-serif;
+    text-align: center;
+}
+p {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+footer {
+  position:fixed;
+  bottom: 0px;
+  width: 100%;
+  text-align: center;
+  }
+form {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.card {
+  margin: 0 auto; /* Added */
+  float: none; /* Added */
+  margin-bottom: 10px; /* Added */
+}
